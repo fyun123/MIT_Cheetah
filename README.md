@@ -1,1 +1,0 @@
-mit cheetah motor controller
